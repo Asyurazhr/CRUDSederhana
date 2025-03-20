@@ -154,4 +154,7 @@ namespace CRUDSederhana
         private void dgvMahasiswa_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0)
-           
+            {
+                DataGridViewRow row = dgvMahasiswa.Rows[e.RowIndex];
+
+              
