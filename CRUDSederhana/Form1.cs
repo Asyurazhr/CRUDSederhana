@@ -24,3 +24,7 @@ namespace CRUDSederhana
         {
             LoadData();
         }
+
+        private void ClearForm()
+        {
+            
