@@ -13,3 +13,4 @@ namespace CRUDSederhana
 {
     public partial class Form1 : Form
     {
+        private string connectionString = "Data Source=DESKTOP-7U8NQ9R\\ASYURAAZZAHRA;Initial Catalog=OrganisasiMahasiswa;Integrated Security=True";
