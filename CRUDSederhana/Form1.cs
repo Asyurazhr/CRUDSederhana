@@ -68,3 +68,5 @@ namespace CRUDSederhana
                 {
                     if (label1.Text == "" || label2.Text == "" || label3.Text == "" || label4.Text == "")
                     {
+                        MessageBox.Show("Harap isi semua data!", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                   
