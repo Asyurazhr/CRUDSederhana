@@ -59,3 +59,6 @@ namespace CRUDSederhana
                 }
             }
         }
+
+        private void btnTambah_Click(object sender, EventArgs e)
+        {
